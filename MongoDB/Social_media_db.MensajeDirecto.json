@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5ac"
+  },
+  "emisor_id": 1,
+  "receptor_id": 2,
+  "contenido": "Hola bro, Que tal? ",
+  "fecha": "2026-03-24 time 10:30 "
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5ad"
+  },
+  "emisor_id": 2,
+  "receptor_id": 1,
+  "contenido": "¡Epa hermano! Todo bien por aqui, ¿y tú? Milagro que escribes jaja.",
+  "fecha": "2026-03-24 time 10:32"
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5ae"
+  },
+  "emisor_id": 1,
+  "receptor_id": 2,
+  "contenido": "todo bien también. Oye, ¿qué cuentas? ¿Mucho trabajo?",
+  "fecha": "2026-03-24 time 10:35:"
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5af"
+  },
+  "emisor_id": 2,
+  "receptor_id": 1,
+  "contenido": "Uff, ni me digas. Vengo saliendo apenas. :( Ha estado pesada la semana.",
+  "fecha": "2026-03-24 time 10:40"
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5b0"
+  },
+  "emisor_id": 1,
+  "receptor_id": 2,
+  "contenido": "Te entiendo... oye, ¿Tienes planes para el fin de semnana?",
+  "fecha": "2026-03-24 time 10:33:"
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5b1"
+  },
+  "emisor_id": 2,
+  "receptor_id": 1,
+  "contenido": "Pues pensaba aprovechar para pasarme el domingo jugando en mi casa. ¿Te animas?",
+  "fecha": "2026-03-24 time 10:45"
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5b2"
+  },
+  "emisor_id": 1,
+  "receptor_id": 2,
+  "contenido": "De una, preparate. ¡¡SUFRIRAS!!",
+  "fecha": "2026-03-24 time 10:46:"
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5b3"
+  },
+  "emisor_id": 2,
+  "receptor_id": 1,
+  "contenido": "jajaja. ¡Súper! Te mando la ubicación más tarde por aquí.",
+  "fecha": "2026-03-24 time 10:48"
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5b4"
+  },
+  "emisor_id": 1,
+  "receptor_id": 2,
+  "contenido": "Dale, quedamos así. ¡Suerte con el tráfico!",
+  "fecha": "2026-03-24 time 10:48:"
+},
+{
+  "_id": {
+    "$oid": "69c219a1b3f7418eba93c5b5"
+  },
+  "emisor_id": 2,
+  "receptor_id": 1,
+  "contenido": "Gracias bro, nos vemos brot",
+  "fecha": "2026-03-24 time 10:50"
+}]
